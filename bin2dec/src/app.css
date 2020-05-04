@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: black;
+    color: brown;
+    text-align: center;
+}
+
+input {
+    margin-right: 15px;
+    border-radius: 3px;
+    border: none;
+    padding-inline-start: 5px;
+}
+
+button {
+    color: brown;
+    font-weight: bold;
+    width: 120px;
+    height: 20px;
+    border-radius: 3px;
+    border-color: white;
+    border: none;
+}
